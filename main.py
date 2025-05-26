@@ -1,3 +1,4 @@
+# made by mash
 import random
 import time
 
